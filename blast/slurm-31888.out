@@ -1,0 +1,9 @@
+
+
+Building a new DB, current time: 12/29/2023 21:12:55
+New DB name:   /home/alumno07/zebrafish.1.protein.faa
+New DB title:  zebrafish.1.protein.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 52951 sequences in 2.29128 seconds.
