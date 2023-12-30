@@ -8,8 +8,6 @@ Tiempo total para encontrarlos: 0.339777s
 [5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
 Números primos encontrados en el intervalo [(1, 60000)]: 172199035
 Tiempo total para encontrarlos: 2.563529s
-Defaulting to user installation because normal site-packages is not writeable
-Requirement already satisfied: boltons in /home/alumno07/.local/lib/python3.11/site-packages (23.1.1)
 [5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
 Números primos encontrados en el intervalo [(1, 60000)]: 172199035
 Tiempo total para encontrarlos: 2.533786s
@@ -35,8 +33,6 @@ Tiempo total para encontrarlos: 0.346343s
 [5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
 Números primos encontrados en el intervalo [(1, 60000)]: 172199035
 Tiempo total para encontrarlos: 2.562141s
-Defaulting to user installation because normal site-packages is not writeable
-Requirement already satisfied: boltons in /home/alumno07/.local/lib/python3.11/site-packages (23.1.1)
 [5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
 Números primos encontrados en el intervalo [(1, 60000)]: 172199035
 Tiempo total para encontrarlos: 2.532729s
