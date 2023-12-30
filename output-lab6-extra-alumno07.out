@@ -1,0 +1,27 @@
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 8.120932s
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+CPU times: user 8.07 s, sys: 91 µs, total: 8.07 s
+Wall time: 8.08 s
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 0.344685s
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 2.623289s
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: boltons in /home/alumno07/.local/lib/python3.11/site-packages (23.1.1)
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 2.517830s
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 2.516812s
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 0.200914s
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 0.117015s
+[5766453, 15483380, 24562880, 33560052, 41914240, 50912030]
+Números primos encontrados en el intervalo [(1, 60000)]: 172199035
+Tiempo total para encontrarlos: 0.116895s
