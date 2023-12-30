@@ -9,7 +9,6 @@
 
 module load singularity
 
-singularity exec ./singularity/my-python.sif ipython ./primes-exercise-alumno07.ipynb 1 60000
-singularity exec ./singularity/my-python.sif ipython ./primes-exercise-alumno07.ipynb 1 10000
+singularity exec ./singularity/my-python.sif ipython ./primes-exercise-alumno07.ipynb
 
 
