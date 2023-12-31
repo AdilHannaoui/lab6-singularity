@@ -1,4 +1,5 @@
 #!/bin/bash
+module load singularity
 
 echo "Comando hostname en ibsen"
 hostname
